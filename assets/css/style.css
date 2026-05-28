@@ -334,18 +334,8 @@ main {
   margin-bottom: 0.5rem;
 }
 
-.form-placeholder {
-  border: 2px dashed var(--color-border);
-  border-radius: 4px;
-  padding: 3rem 2rem;
-  text-align: center;
-  color: var(--color-text-muted);
-  background: #fafafa;
-}
-
-.form-placeholder__note {
-  font-size: 0.9rem;
-  margin-top: 0.5rem;
+.contact-form {
+  margin-top: 1rem;
 }
 
 /* Footer */
