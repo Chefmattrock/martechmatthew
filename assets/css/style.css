@@ -450,58 +450,6 @@ main {
   margin-top: 2rem;
 }
 
-/* Resume */
-
-.resume-header {
-  margin-bottom: 1rem;
-}
-
-.resume-header__contact {
-  color: var(--color-text-muted);
-}
-
-.resume-entry {
-  margin-bottom: 2.5rem;
-}
-
-.resume-entry:last-child {
-  margin-bottom: 0;
-}
-
-.resume-entry__header {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.5rem 1rem;
-}
-
-.resume-entry__header h3 {
-  margin-bottom: 0.5rem;
-}
-
-.resume-entry__dates {
-  font-size: 0.9rem;
-  color: var(--color-text-muted);
-  white-space: nowrap;
-}
-
-.resume-entry blockquote {
-  margin: 1rem 0;
-  padding: 1rem 1.5rem;
-  border-left: 3px solid var(--color-primary);
-  color: var(--color-text-muted);
-  font-style: italic;
-}
-
-.resume-entry blockquote p {
-  margin: 0 0 1rem;
-}
-
-.resume-entry blockquote p:last-child {
-  margin-bottom: 0;
-}
-
 /* Contact */
 
 .contact-info {
